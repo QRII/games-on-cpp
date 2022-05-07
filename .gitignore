@@ -1,7 +1,6 @@
-.\
-./
-.depend
-.exe
-.cbp
-.o
-.txt
+*./
+*.depend
+*.exe
+*.cbp
+*.o
+*.txt
